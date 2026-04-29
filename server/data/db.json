@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Admin Principal",
+      "email": "admin@zerochomage.local",
+      "role": "admin",
+      "passwordHash": "$2a$10$e6cPlSpGSY8c/sz9A3TlcOANXNVirp3AHAjzXqmrvcA6uikZekMRe",
+      "createdAt": "2026-04-28T18:12:25.785Z"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "label": "IMG_4051.jpg (2).jpeg",
+      "fileName": "1777479694156-img_4051.jpg-(2).jpeg",
+      "url": "/uploads/1777479694156-img_4051.jpg-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 2505749,
+      "uploadedBy": 1,
+      "createdAt": "2026-04-29T16:21:34.178Z"
+    }
+  ],
+  "siteContent": {
+    "hero": {
+      "titleTop": "FORME-TOI",
+      "titleMiddle": "TRAVAILLE",
+      "titleHighlight": "SOIS PAYE",
+      "description": "Zero Chomage Afrique forme et propulse les jeunes vers des opportunites concretes dans les metiers du digital."
+    },
+    "formations": [
+      {
+        "id": "photo",
+        "icon": "camera",
+        "image": "/src/assets/photo-1.jpg",
+        "title": "PHOTOGRAPHIE",
+        "desc": "Maitrisez la prise de vue, la lumiere et la retouche photo professionnelle.",
+        "color": "bg-primary"
+      },
+      {
+        "id": "video",
+        "icon": "video",
+        "image": "/src/assets/video-1.jpg",
+        "title": "VIDEOGRAPHIE & CREATION DE CONTENU",
+        "desc": "Apprenez a filmer, monter et creer des contenus percutants.",
+        "color": "bg-accent"
+      },
+      {
+        "id": "design",
+        "icon": "palette",
+        "image": "/src/assets/design-1.jpg",
+        "title": "DESIGN GRAPHIQUE",
+        "desc": "Creez des visuels professionnels et des identites impactantes.",
+        "color": "bg-primary"
+      },
+      {
+        "id": "marketing",
+        "icon": "bar-chart",
+        "image": "/src/assets/formation-marketing.jpg",
+        "title": "MARKETING DIGITAL",
+        "desc": "Developpez des strategies digitales et generez des resultats.",
+        "color": "bg-accent"
+      }
+    ],
+    "news": [
+      {
+        "id": "news-1",
+        "img": "/src/assets/news-1.jpg",
+        "date": "15 Mars 2026",
+        "category": "FORMATION",
+        "title": "Lancement de la nouvelle promotion 2026",
+        "desc": "Plus de 200 jeunes africains rejoignent nos parcours en design, marketing digital, photo et video."
+      },
+      {
+        "id": "news-2",
+        "img": "/src/assets/news-2.jpg",
+        "date": "02 Fevrier 2026",
+        "category": "EVENEMENT",
+        "title": "Masterclass Entrepreneuriat Numerique",
+        "desc": "Une journee d'inspiration avec des experts du digital pour booster les ambitions des apprenants."
+      },
+      {
+        "id": "news-3",
+        "img": "/src/assets/news-3.jpg",
+        "date": "20 Janvier 2026",
+        "category": "CEREMONIE",
+        "title": "Ceremonie de remise des certificats DigiMetier",
+        "desc": "Plus de 150 diplomes ont recu leur certification apres leur parcours intensif chez Future Horizon."
+      }
+    ]
+  }
+}
