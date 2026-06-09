@@ -1,7 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { ArrowLeft, ArrowRight, CheckCircle2 } from "lucide-react";
 import { useSiteContent } from "@/context/SiteContentContext";
-import { getFormationDetailById } from "@/lib/formationDetails";
+import { resolveFormationDetail } from "@/lib/formationDetails";
 import { REGISTRATION_URL } from "@/lib/links";
 
 export default function FormationDetails() {
@@ -29,7 +29,8 @@ export default function FormationDetails() {
     );
   }
 
-  const detail = getFormationDetailById(formation.id);
+  const detail = resolveFormationDetail(formation);
+  const gallery = formation.gallery ?? [];
 
   return (
     <main className="min-h-screen bg-background py-10">
@@ -41,6 +42,19 @@ export default function FormationDetails() {
 
         <div className="mt-6 overflow-hidden rounded-2xl border border-border bg-card">
           <img src={formation.image} alt={formation.title} className="h-72 w-full object-cover md:h-96" />
+          {gallery.length > 0 ? (
+            <div className="grid grid-cols-2 gap-1 border-b border-border sm:grid-cols-3 md:grid-cols-4">
+              {gallery.map((src, index) => (
+                <img
+                  key={`${src}-${index}`}
+                  src={src}
+                  alt={`${formation.title} - photo ${index + 1}`}
+                  className="aspect-[4/3] w-full object-cover"
+                  loading="lazy"
+                />
+              ))}
+            </div>
+          ) : null}
           <div className="p-6 md:p-10">
             <h1 className="font-display text-3xl font-black text-primary md:text-4xl">{formation.title}</h1>
             <p className="mt-4 text-base leading-relaxed text-foreground">{detail.intro}</p>

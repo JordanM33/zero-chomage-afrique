@@ -19,73 +19,1052 @@
       "size": 2505749,
       "uploadedBy": 1,
       "createdAt": "2026-04-29T16:21:34.178Z"
+    },
+    {
+      "id": 2,
+      "label": "WhatsApp Image 2026-05-20 at 15.58.50 (2).jpeg",
+      "fileName": "1781014307757-whatsapp-image-2026-05-20-at-15.58.50-(2).jpeg",
+      "url": "/uploads/1781014307757-whatsapp-image-2026-05-20-at-15.58.50-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 649395,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:11:47.764Z"
+    },
+    {
+      "id": 3,
+      "label": "WhatsApp Image 2026-05-20 at 15.58.50 (3) - Copy.jpeg",
+      "fileName": "1781014347817-whatsapp-image-2026-05-20-at-15.58.50-(3)---copy.jpeg",
+      "url": "/uploads/1781014347817-whatsapp-image-2026-05-20-at-15.58.50-(3)---copy.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 353416,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:12:27.821Z"
+    },
+    {
+      "id": 4,
+      "label": "WhatsApp Image 2026-05-20 at 15.58.50 (1).jpeg",
+      "fileName": "1781014353759-whatsapp-image-2026-05-20-at-15.58.50-(1).jpeg",
+      "url": "/uploads/1781014353759-whatsapp-image-2026-05-20-at-15.58.50-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 561672,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:12:33.762Z"
+    },
+    {
+      "id": 5,
+      "label": "WhatsApp Image 2026-05-20 at 15.58.50.jpeg",
+      "fileName": "1781014357896-whatsapp-image-2026-05-20-at-15.58.50.jpeg",
+      "url": "/uploads/1781014357896-whatsapp-image-2026-05-20-at-15.58.50.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1620043,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:12:37.904Z"
+    },
+    {
+      "id": 6,
+      "label": "WhatsApp Image 2026-05-20 at 16.00.11.jpeg",
+      "fileName": "1781015291773-whatsapp-image-2026-05-20-at-16.00.11.jpeg",
+      "url": "/uploads/1781015291773-whatsapp-image-2026-05-20-at-16.00.11.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1254109,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:28:11.780Z"
+    },
+    {
+      "id": 7,
+      "label": "WhatsApp Image 2026-05-20 at 16.00.11 (1).jpeg",
+      "fileName": "1781015299839-whatsapp-image-2026-05-20-at-16.00.11-(1).jpeg",
+      "url": "/uploads/1781015299839-whatsapp-image-2026-05-20-at-16.00.11-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 524967,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:28:19.841Z"
+    },
+    {
+      "id": 8,
+      "label": "WhatsApp Image 2026-05-20 at 16.02.19.jpeg",
+      "fileName": "1781015607498-whatsapp-image-2026-05-20-at-16.02.19.jpeg",
+      "url": "/uploads/1781015607498-whatsapp-image-2026-05-20-at-16.02.19.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 883559,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:33:27.502Z"
+    },
+    {
+      "id": 9,
+      "label": "WhatsApp Image 2026-05-20 at 16.02.18.jpeg",
+      "fileName": "1781015612707-whatsapp-image-2026-05-20-at-16.02.18.jpeg",
+      "url": "/uploads/1781015612707-whatsapp-image-2026-05-20-at-16.02.18.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 514406,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:33:32.710Z"
+    },
+    {
+      "id": 10,
+      "label": "WhatsApp Image 2026-05-20 at 16.04.09.jpeg",
+      "fileName": "1781015941792-whatsapp-image-2026-05-20-at-16.04.09.jpeg",
+      "url": "/uploads/1781015941792-whatsapp-image-2026-05-20-at-16.04.09.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 707306,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:39:01.795Z"
+    },
+    {
+      "id": 11,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (1).jpeg",
+      "fileName": "1781016327877-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "url": "/uploads/1781016327877-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 620319,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T14:45:27.880Z"
+    },
+    {
+      "id": 13,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (1).jpeg",
+      "fileName": "1781017207493-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "url": "/uploads/1781017207493-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 620319,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:00:07.497Z"
+    },
+    {
+      "id": 14,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (2).jpeg",
+      "fileName": "1781017300659-whatsapp-image-2026-05-20-at-16.31.46-(2).jpeg",
+      "url": "/uploads/1781017300659-whatsapp-image-2026-05-20-at-16.31.46-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 693889,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:01:40.663Z"
+    },
+    {
+      "id": 15,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (3).jpeg",
+      "fileName": "1781017305031-whatsapp-image-2026-05-20-at-16.31.46-(3).jpeg",
+      "url": "/uploads/1781017305031-whatsapp-image-2026-05-20-at-16.31.46-(3).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 606100,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:01:45.034Z"
+    },
+    {
+      "id": 16,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (4).jpeg",
+      "fileName": "1781017312356-whatsapp-image-2026-05-20-at-16.31.46-(4).jpeg",
+      "url": "/uploads/1781017312356-whatsapp-image-2026-05-20-at-16.31.46-(4).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 767602,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:01:52.362Z"
+    },
+    {
+      "id": 17,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46.jpeg",
+      "fileName": "1781017318072-whatsapp-image-2026-05-20-at-16.31.46.jpeg",
+      "url": "/uploads/1781017318072-whatsapp-image-2026-05-20-at-16.31.46.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1102057,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:01:58.078Z"
+    },
+    {
+      "id": 18,
+      "label": "WhatsApp Image 2026-05-20 at 16.43.02.jpeg",
+      "fileName": "1781017521946-whatsapp-image-2026-05-20-at-16.43.02.jpeg",
+      "url": "/uploads/1781017521946-whatsapp-image-2026-05-20-at-16.43.02.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 197900,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:05:21.948Z"
+    },
+    {
+      "id": 19,
+      "label": "WhatsApp Image 2026-05-23 at 23.19.54.jpeg",
+      "fileName": "1781017593809-whatsapp-image-2026-05-23-at-23.19.54.jpeg",
+      "url": "/uploads/1781017593809-whatsapp-image-2026-05-23-at-23.19.54.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 276302,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:06:33.810Z"
+    },
+    {
+      "id": 20,
+      "label": "WhatsApp Image 2026-05-23 at 23.19.55.jpeg",
+      "fileName": "1781017598886-whatsapp-image-2026-05-23-at-23.19.55.jpeg",
+      "url": "/uploads/1781017598886-whatsapp-image-2026-05-23-at-23.19.55.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 352515,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:06:38.888Z"
+    },
+    {
+      "id": 21,
+      "label": "WhatsApp Image 2026-05-20 at 16.36.08.jpeg",
+      "fileName": "1781017748787-whatsapp-image-2026-05-20-at-16.36.08.jpeg",
+      "url": "/uploads/1781017748787-whatsapp-image-2026-05-20-at-16.36.08.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 697290,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:09:08.790Z"
+    },
+    {
+      "id": 22,
+      "label": "WhatsApp Image 2026-05-20 at 16.36.07.jpeg",
+      "fileName": "1781017755318-whatsapp-image-2026-05-20-at-16.36.07.jpeg",
+      "url": "/uploads/1781017755318-whatsapp-image-2026-05-20-at-16.36.07.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 522153,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:09:15.322Z"
+    },
+    {
+      "id": 23,
+      "label": "WhatsApp Image 2026-05-20 at 16.33.54 (1).jpeg",
+      "fileName": "1781017760629-whatsapp-image-2026-05-20-at-16.33.54-(1).jpeg",
+      "url": "/uploads/1781017760629-whatsapp-image-2026-05-20-at-16.33.54-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 649421,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:09:20.633Z"
+    },
+    {
+      "id": 24,
+      "label": "WhatsApp Image 2026-05-20 at 16.33.54.jpeg",
+      "fileName": "1781017765778-whatsapp-image-2026-05-20-at-16.33.54.jpeg",
+      "url": "/uploads/1781017765778-whatsapp-image-2026-05-20-at-16.33.54.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 572826,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:09:25.781Z"
+    },
+    {
+      "id": 25,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.54 (1).jpeg",
+      "fileName": "1781019473888-whatsapp-image-2026-05-20-at-16.44.54-(1).jpeg",
+      "url": "/uploads/1781019473888-whatsapp-image-2026-05-20-at-16.44.54-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 385094,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:37:53.890Z"
+    },
+    {
+      "id": 26,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.54.jpeg",
+      "fileName": "1781019480690-whatsapp-image-2026-05-20-at-16.44.54.jpeg",
+      "url": "/uploads/1781019480690-whatsapp-image-2026-05-20-at-16.44.54.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 423868,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:38:00.692Z"
+    },
+    {
+      "id": 27,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.55 (1).jpeg",
+      "fileName": "1781019486521-whatsapp-image-2026-05-20-at-16.44.55-(1).jpeg",
+      "url": "/uploads/1781019486521-whatsapp-image-2026-05-20-at-16.44.55-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 376469,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:38:06.523Z"
+    },
+    {
+      "id": 28,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.55.jpeg",
+      "fileName": "1781019490076-whatsapp-image-2026-05-20-at-16.44.55.jpeg",
+      "url": "/uploads/1781019490076-whatsapp-image-2026-05-20-at-16.44.55.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 350166,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:38:10.078Z"
+    },
+    {
+      "id": 30,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.56.jpeg",
+      "fileName": "1781019498673-whatsapp-image-2026-05-20-at-16.44.56.jpeg",
+      "url": "/uploads/1781019498673-whatsapp-image-2026-05-20-at-16.44.56.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 376079,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:38:18.676Z"
+    },
+    {
+      "id": 31,
+      "label": "WhatsApp Image 2026-05-20 at 16.44.54 (2).jpeg",
+      "fileName": "1781019505130-whatsapp-image-2026-05-20-at-16.44.54-(2).jpeg",
+      "url": "/uploads/1781019505130-whatsapp-image-2026-05-20-at-16.44.54-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 373129,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:38:25.132Z"
+    },
+    {
+      "id": 32,
+      "label": "WhatsApp Image 2026-05-20 at 16.31.46 (1).jpeg",
+      "fileName": "1781019869156-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "url": "/uploads/1781019869156-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 620319,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:44:29.161Z"
+    },
+    {
+      "id": 33,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (1).jpeg",
+      "fileName": "1781020093107-whatsapp-image-2026-05-20-at-16.49.58-(1).jpeg",
+      "url": "/uploads/1781020093107-whatsapp-image-2026-05-20-at-16.49.58-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 266351,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:48:13.109Z"
+    },
+    {
+      "id": 35,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58.jpeg",
+      "fileName": "1781020145808-whatsapp-image-2026-05-20-at-16.49.58.jpeg",
+      "url": "/uploads/1781020145808-whatsapp-image-2026-05-20-at-16.49.58.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 334755,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:49:05.810Z"
+    },
+    {
+      "id": 36,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (2).jpeg",
+      "fileName": "1781020232891-whatsapp-image-2026-05-20-at-16.49.58-(2).jpeg",
+      "url": "/uploads/1781020232891-whatsapp-image-2026-05-20-at-16.49.58-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 622701,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:32.895Z"
+    },
+    {
+      "id": 37,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (3).jpeg",
+      "fileName": "1781020239484-whatsapp-image-2026-05-20-at-16.49.58-(3).jpeg",
+      "url": "/uploads/1781020239484-whatsapp-image-2026-05-20-at-16.49.58-(3).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 346767,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:39.486Z"
+    },
+    {
+      "id": 38,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (4).jpeg",
+      "fileName": "1781020244426-whatsapp-image-2026-05-20-at-16.49.58-(4).jpeg",
+      "url": "/uploads/1781020244426-whatsapp-image-2026-05-20-at-16.49.58-(4).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 357772,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:44.429Z"
+    },
+    {
+      "id": 39,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (8).jpeg",
+      "fileName": "1781020249187-whatsapp-image-2026-05-20-at-16.49.58-(8).jpeg",
+      "url": "/uploads/1781020249187-whatsapp-image-2026-05-20-at-16.49.58-(8).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 696033,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:49.191Z"
+    },
+    {
+      "id": 40,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (9).jpeg",
+      "fileName": "1781020252664-whatsapp-image-2026-05-20-at-16.49.58-(9).jpeg",
+      "url": "/uploads/1781020252664-whatsapp-image-2026-05-20-at-16.49.58-(9).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 644859,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:52.667Z"
+    },
+    {
+      "id": 41,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (10).jpeg",
+      "fileName": "1781020257303-whatsapp-image-2026-05-20-at-16.49.58-(10).jpeg",
+      "url": "/uploads/1781020257303-whatsapp-image-2026-05-20-at-16.49.58-(10).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 621508,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:50:57.306Z"
+    },
+    {
+      "id": 42,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (11).jpeg",
+      "fileName": "1781020261499-whatsapp-image-2026-05-20-at-16.49.58-(11).jpeg",
+      "url": "/uploads/1781020261499-whatsapp-image-2026-05-20-at-16.49.58-(11).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 663795,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:51:01.503Z"
+    },
+    {
+      "id": 44,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (12).jpeg",
+      "fileName": "1781020270279-whatsapp-image-2026-05-20-at-16.49.58-(12).jpeg",
+      "url": "/uploads/1781020270279-whatsapp-image-2026-05-20-at-16.49.58-(12).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 669402,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:51:10.283Z"
+    },
+    {
+      "id": 45,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (13).jpeg",
+      "fileName": "1781020277957-whatsapp-image-2026-05-20-at-16.49.58-(13).jpeg",
+      "url": "/uploads/1781020277957-whatsapp-image-2026-05-20-at-16.49.58-(13).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 649865,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:51:17.961Z"
+    },
+    {
+      "id": 46,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (14).jpeg",
+      "fileName": "1781020289199-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+      "url": "/uploads/1781020289199-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 388175,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:51:29.202Z"
+    },
+    {
+      "id": 47,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (15).jpeg",
+      "fileName": "1781020301213-whatsapp-image-2026-05-20-at-16.49.58-(15).jpeg",
+      "url": "/uploads/1781020301213-whatsapp-image-2026-05-20-at-16.49.58-(15).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 402287,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T15:51:41.217Z"
+    },
+    {
+      "id": 48,
+      "label": "WhatsApp Image 2026-05-20 at 16.16.05.jpeg",
+      "fileName": "1781025656883-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "url": "/uploads/1781025656883-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1178188,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:20:56.893Z"
+    },
+    {
+      "id": 49,
+      "label": "WhatsApp Image 2026-05-20 at 16.16.06.jpeg",
+      "fileName": "1781025661575-whatsapp-image-2026-05-20-at-16.16.06.jpeg",
+      "url": "/uploads/1781025661575-whatsapp-image-2026-05-20-at-16.16.06.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 493011,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:21:01.587Z"
+    },
+    {
+      "id": 50,
+      "label": "WhatsApp Image 2026-05-20 at 16.16.07.jpeg",
+      "fileName": "1781025666078-whatsapp-image-2026-05-20-at-16.16.07.jpeg",
+      "url": "/uploads/1781025666078-whatsapp-image-2026-05-20-at-16.16.07.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 512145,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:21:06.089Z"
+    },
+    {
+      "id": 51,
+      "label": "WhatsApp Image 2026-05-20 at 16.20.58 (2).jpeg",
+      "fileName": "1781025718090-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+      "url": "/uploads/1781025718090-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 407854,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:21:58.104Z"
+    },
+    {
+      "id": 52,
+      "label": "WhatsApp Image 2026-05-20 at 16.20.58 (1).jpeg",
+      "fileName": "1781025723004-whatsapp-image-2026-05-20-at-16.20.58-(1).jpeg",
+      "url": "/uploads/1781025723004-whatsapp-image-2026-05-20-at-16.20.58-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 435519,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:22:03.016Z"
+    },
+    {
+      "id": 53,
+      "label": "WhatsApp Image 2026-05-20 at 16.20.58.jpeg",
+      "fileName": "1781025727040-whatsapp-image-2026-05-20-at-16.20.58.jpeg",
+      "url": "/uploads/1781025727040-whatsapp-image-2026-05-20-at-16.20.58.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 884744,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:22:07.054Z"
+    },
+    {
+      "id": 54,
+      "label": "WhatsApp Image 2026-05-20 at 16.24.16 (1).jpeg",
+      "fileName": "1781025794971-whatsapp-image-2026-05-20-at-16.24.16-(1).jpeg",
+      "url": "/uploads/1781025794971-whatsapp-image-2026-05-20-at-16.24.16-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 598591,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:23:14.983Z"
+    },
+    {
+      "id": 55,
+      "label": "WhatsApp Image 2026-05-20 at 16.24.16.jpeg",
+      "fileName": "1781025800413-whatsapp-image-2026-05-20-at-16.24.16.jpeg",
+      "url": "/uploads/1781025800413-whatsapp-image-2026-05-20-at-16.24.16.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 883567,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:23:20.427Z"
+    },
+    {
+      "id": 56,
+      "label": "WhatsApp Image 2026-05-20 at 16.24.17.jpeg",
+      "fileName": "1781025805916-whatsapp-image-2026-05-20-at-16.24.17.jpeg",
+      "url": "/uploads/1781025805916-whatsapp-image-2026-05-20-at-16.24.17.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 442758,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:23:25.927Z"
+    },
+    {
+      "id": 57,
+      "label": "WhatsApp Image 2026-05-20 at 16.27.08 (1).jpeg",
+      "fileName": "1781025865082-whatsapp-image-2026-05-20-at-16.27.08-(1).jpeg",
+      "url": "/uploads/1781025865082-whatsapp-image-2026-05-20-at-16.27.08-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 363375,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:24:25.096Z"
+    },
+    {
+      "id": 58,
+      "label": "WhatsApp Image 2026-05-20 at 16.27.07 (1).jpeg",
+      "fileName": "1781025871870-whatsapp-image-2026-05-20-at-16.27.07-(1).jpeg",
+      "url": "/uploads/1781025871870-whatsapp-image-2026-05-20-at-16.27.07-(1).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 348100,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:24:31.882Z"
+    },
+    {
+      "id": 59,
+      "label": "WhatsApp Image 2026-05-20 at 16.27.07.jpeg",
+      "fileName": "1781025876782-whatsapp-image-2026-05-20-at-16.27.07.jpeg",
+      "url": "/uploads/1781025876782-whatsapp-image-2026-05-20-at-16.27.07.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 792511,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:24:36.798Z"
+    },
+    {
+      "id": 60,
+      "label": "WhatsApp Image 2026-05-20 at 16.27.08.jpeg",
+      "fileName": "1781025881021-whatsapp-image-2026-05-20-at-16.27.08.jpeg",
+      "url": "/uploads/1781025881021-whatsapp-image-2026-05-20-at-16.27.08.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 422270,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:24:41.036Z"
+    },
+    {
+      "id": 61,
+      "label": "WhatsApp Image 2026-05-20 at 16.27.08.jpeg",
+      "fileName": "1781025888039-whatsapp-image-2026-05-20-at-16.27.08.jpeg",
+      "url": "/uploads/1781025888039-whatsapp-image-2026-05-20-at-16.27.08.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 422270,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:24:48.051Z"
+    },
+    {
+      "id": 62,
+      "label": "WhatsApp Image 2026-05-20 at 16.24.16 (2).jpeg",
+      "fileName": "1781025903542-whatsapp-image-2026-05-20-at-16.24.16-(2).jpeg",
+      "url": "/uploads/1781025903542-whatsapp-image-2026-05-20-at-16.24.16-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 609876,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:25:03.555Z"
+    },
+    {
+      "id": 63,
+      "label": "WhatsApp Image 2026-05-20 at 16.16.05.jpeg",
+      "fileName": "1781025918590-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "url": "/uploads/1781025918590-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1178188,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:25:18.606Z"
+    },
+    {
+      "id": 64,
+      "label": "WhatsApp Image 2026-05-20 at 16.20.58 (2).jpeg",
+      "fileName": "1781025931507-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+      "url": "/uploads/1781025931507-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 407854,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:25:31.518Z"
+    },
+    {
+      "id": 65,
+      "label": "WhatsApp Image 2026-05-20 at 16.16.05.jpeg",
+      "fileName": "1781025953527-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "url": "/uploads/1781025953527-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+      "mimeType": "image/jpeg",
+      "size": 1178188,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-09T17:25:53.542Z"
     }
   ],
   "siteContent": {
     "hero": {
-      "titleTop": "FORME-TOI",
-      "titleMiddle": "TRAVAILLE",
-      "titleHighlight": "SOIS PAYE",
-      "description": "Zero Chomage Afrique forme et propulse les jeunes vers des opportunites concretes dans les metiers du digital."
+      "titleTop": "Ensemble,",
+      "titleMiddle": "construisons une Afrique sans chômage ",
+      "titleHighlight": " et peines d'opportunités.",
+      "description": "Depuis 2021, le programme Zéro Chômage Afrique transforme le potentiel de notre jeunesse en compétences concrètes, en la propulsant vers les opportunités réelles du digital, du numérique et de l'intelligence artificielle."
     },
     "formations": [
       {
         "id": "photo",
         "icon": "camera",
-        "image": "/src/assets/photo-1.jpg",
+        "image": "http://localhost:4000/uploads/1781014307757-whatsapp-image-2026-05-20-at-15.58.50-(2).jpeg",
         "title": "PHOTOGRAPHIE",
-        "desc": "Maitrisez la prise de vue, la lumiere et la retouche photo professionnelle.",
-        "color": "bg-primary"
+        "desc": "Devenez un pro de l’image. Maîtrisez la prise de vue, la lumière et la retouche professionnelle pour capturer des visuels qui marquent les esprits.",
+        "color": "bg-primary",
+        "detail": {
+          "intro": "Transformez votre passion en un métier rentable.\nCette formation intensive vous plonge directement au cœur du terrain. Vous apprendrez à dompter les reflets, à configurer un studio photo de A à Z et à manier les logiciels de référence. De la photo de produit pour le e-commerce au portrait corporate pour les institutions, vous construirez un portfolio solide pour décrocher vos premiers contrats dès la fin du programme.",
+          "target": "Oublie les cours théoriques ennuyeux. Notre calendrier est conçu pour faire de toi un véritable professionnel en 20 séances intensives :\n\n",
+          "program": [
+            "✅ Séances 1 à 5 : Maîtrise totale de ton boîtier. Tu ne subiras plus l'appareil, c'est TOI qui commanderas la lumière.",
+            "✅ Séances 6 à 10 : L'art de la composition et du storytelling. Apprends à raconter une histoire avec une seule image, que ce soit au reflex ou sur mobile.",
+            "✅ Séances 11 à 15 : Spécialisation terrain ! Portrait, packshot produit, événementiel... tu seras prêt pour toutes les demandes du marché.",
+            "✅ Séances 16 à 20 : Post-production et Business. Apprends à retoucher tes clichés comme un pro et surtout, à vendre tes services pour lancer ton activité ! 💰💼",
+            "Le plus ? Tu manipuleras du matériel de pointe (appareils pros, flashs, softbox) et tu seras coaché pour transformer chaque cliché en opportunité de revenu."
+          ],
+          "skills": [
+            "Piloter un appareil photo reflex/hybride en mode manuel complet.",
+            "Scuplter un visage ou un produit grâce aux modeleurs de lumière (softbox, réflecteurs)..",
+            "Corriger la colorimétrie et gommer les imperfections d'une image avec précision.",
+            "Livrer des fichiers optimisés pour le web et l'impression grand format."
+          ],
+          "outcomes": [
+            "Photographe de studio / Mode / Événementiel",
+            "Photographe de produit pour les sites e-commerce",
+            "Reporter d'images pour les institutions et ONG",
+            "Débouchés professionnels",
+            "Retoucheur photo indépendant (Freelance)"
+          ],
+          "keywords": [
+            "Exposition ",
+            "Lightroom ",
+            "Studio ",
+            "Composition ",
+            "Portfolio ",
+            "Packshot"
+          ]
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781014347817-whatsapp-image-2026-05-20-at-15.58.50-(3)---copy.jpeg",
+          "http://localhost:4000/uploads/1781014353759-whatsapp-image-2026-05-20-at-15.58.50-(1).jpeg",
+          "http://localhost:4000/uploads/1781014357896-whatsapp-image-2026-05-20-at-15.58.50.jpeg"
+        ]
       },
       {
         "id": "video",
         "icon": "video",
-        "image": "/src/assets/video-1.jpg",
-        "title": "VIDEOGRAPHIE & CREATION DE CONTENU",
-        "desc": "Apprenez a filmer, monter et creer des contenus percutants.",
-        "color": "bg-accent"
+        "image": "http://localhost:4000/uploads/1781015291773-whatsapp-image-2026-05-20-at-16.00.11.jpeg",
+        "title": "CRÉATION DE CONTENU & AUDIOVISUEL",
+        "desc": "Donnez vie à vos idées. Apprenez à scénariser, filmer et monter des vidéos dynamiques au rendu digne du cinéma et des réseaux sociaux.",
+        "color": "bg-accent",
+        "detail": {
+          "intro": "Le contenu vidéo est le roi du digital. Ne soyez plus un simple spectateur, devenez le créateur.\nOubliez les vidéos amateurs au son médiocre. Ce module vous enseigne la gestion de l'éclairage de plateau, la prise de son professionnelle avec micro-cravate et les techniques de montage rapide. Vous saurez structurer un script captivant dès les 3 premières secondes pour retenir l’attention des internautes et concevoir des vidéos publicitaires ou institutionnelles à fort impact.",
+          "target": "\n🎥 SILENCE, ÇA TOURNE... TON DESTIN SE JOUE ICI !\n\nTu rêves de créer des vidéos qui captivent, inspirent et font bouger les lignes ? \nBienvenue dans la filière Audiovisuelle du programme Zéro Chômage Afrique ! 🌍🎬\n\nPrépare-toi à une immersion totale où chaque séance te rapproche de ton rêve de réalisateur ou de créateur de contenu influent :",
+          "program": [
+            " ✅ Modules 1 à 5 : L'Art du Storytelling & Prise de Vue. Apprends à cadrer comme un pro, à maîtriser la lumière et à écrire tes propres scénarios. Passe de l'idée à ton tout premier tournage réel !",
+            "✅ Modules 6 à 10 : La Magie du Montage Mobile. Maîtrise CapCut, InShot et l'art de l'assemblage vidéo. Ajoute du rythme, des textes percutants et des sous-titres pour rendre tes vidéos addictives. 📱✂️",
+            "✅ Modules 11 à 15 : Création de Contenu à Impact. Vlogs, vidéos produits, spots publicitaires ou vidéos de motivation... apprends à créer du contenu viral qui génère de l'engagement et des ventes. 📈🎥",
+            "✅ Modules 16 à 20 : Professionnalisation & Branding. Maîtrise la voix-off, la synchronisation, l'exportation haute définition et crée ton identité visuelle pour lancer ton activité de vidéaste autonome ! 💰🏆",
+            "Le plus ? Tu travailleras avec des caméras pros, des micros cravates et des logiciels de pointe. Ici, on ne regarde pas de films, on les crée !"
+          ],
+          "skills": [
+            " Réaliser des \"cuts\" chirurgicaux au montage pour éliminer les blancs et dynamiser le rythme. ",
+            "Rédiger un script de vidéo publicitaire ou institutionnelle percutant.",
+            "Optimiser le formatage des vidéos selon la plateforme cible (Vertical 9:16 ou Horizontal 16:9).",
+            "Capter un son lourd, propre, chaleureux et sans écho sur le terrain. "
+          ],
+          "outcomes": [
+            "Vidéaste / Monteur vidéo indépendant",
+            "Créateur de contenu de marque (Brand Content Creator)",
+            "Réalisateur de capsules vidéo pour le webTechnicien audiovisuel junior"
+          ],
+          "keywords": [
+            "Scripting",
+            "Montage ",
+            "Rythme ",
+            "Vidéo verticale ",
+            " Étalonnage",
+            " Prise de son "
+          ]
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781015299839-whatsapp-image-2026-05-20-at-16.00.11-(1).jpeg"
+        ]
       },
       {
         "id": "design",
         "icon": "palette",
         "image": "/src/assets/design-1.jpg",
         "title": "DESIGN GRAPHIQUE",
-        "desc": "Creez des visuels professionnels et des identites impactantes.",
-        "color": "bg-primary"
+        "desc": "Créez des identités visuelles percutantes. Maîtrisez l'art des couleurs, des typographies et des designs professionnels pour les marques.",
+        "color": "bg-primary",
+        "detail": {
+          "intro": "Donnez une voix visuelle aux entreprises africaines.\nLe design graphique est partout : logos, affiches, applications mobiles et maquettes web. Dans cette session pratique, vous dompterez les logiciels de l'industrie pour créer des visuels épurés et professionnels qui respectent les chartes graphiques les plus exigeantes. Vous apprendrez à structurer l'information pour que l'œil de l'utilisateur lise instantanément le message clé, une compétence indispensable recherchée par toutes les agences.\n",
+          "target": "Adaptee aux debutants en design, aux entrepreneurs et aux profils qui veulent travailler en agence ou en freelance.",
+          "program": [
+            "Module 1 : Théorie du design (psychologie des couleurs, typographies, hiérarchie visuelle).",
+            "Module 2 : Création vectorielle et conception de logos sous Adobe Illustrator.",
+            "Module 3 : Composition graphique, manipulation d'images et affiches sous Photoshop.",
+            "Module 4 : Maquetage d'interfaces web/mobiles (UI) et maîtrise des outils collaboratifs (Figma/Canva Pro)."
+          ],
+          "skills": [
+            "Concevoir une identité visuelle et une charte graphique de A à Z pour une marque.",
+            "Créer des éléments graphiques vectoriels nets et redimensionnables à l'infini.",
+            "Épurer un visuel pour garantir une lecture claire du message en moins de 3 secondes.",
+            "Traduire un besoin client complexe en une proposition graphique moderne et professionnelle."
+          ],
+          "outcomes": [
+            "Graphiste / Designer VisuelCréateur d'identités de marque (Brand Designer)",
+            "Maquettiste PAO / Designer d'affiches",
+            "Designer d'interface junior (UI Designer)"
+          ],
+          "keywords": [
+            "Vectoriel ",
+            "Typographie ",
+            "Hiérarchie ",
+            " Figma",
+            " Charte graphique",
+            "Identité visuelle"
+          ]
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781015607498-whatsapp-image-2026-05-20-at-16.02.19.jpeg",
+          "http://localhost:4000/uploads/1781015612707-whatsapp-image-2026-05-20-at-16.02.18.jpeg"
+        ]
       },
       {
         "id": "marketing",
         "icon": "bar-chart",
-        "image": "/src/assets/formation-marketing.jpg",
-        "title": "MARKETING DIGITAL",
-        "desc": "Developpez des strategies digitales et generez des resultats.",
-        "color": "bg-accent"
+        "image": "http://localhost:4000/uploads/1781015941792-whatsapp-image-2026-05-20-at-16.04.09.jpeg",
+        "title": "MARKETING DIGITAL & INTELLIGENCE ARTIFICIELLE",
+        "desc": "Propulsez les ventes grâce au digital. Développez des stratégies web performantes et utilisez l'IA pour décupler vos résultats.\n",
+        "color": "bg-accent",
+        "detail": {
+          "intro": "Prenez une longueur d'avance en intégrant la puissance de l'IA dans votre marketing.\nCette formation vous apprend à concevoir des campagnes publicitaires rentables, à animer des communautés engagées et à analyser les données du web. La grande force de ce module est l’intégration de l'Intelligence Artificielle : vous apprendrez à utiliser des outils d'IA générative pour automatiser vos tâches, rédiger des textes de vente en quelques secondes et optimiser le tunnel de conversion de vos clients.\n",
+          "target": "DOMINE LE WEB ET DEVIENS UN STRATÈGE DIGITAL !\n\nLe monde a changé, et les entreprises s'arrachent ceux qui maîtrisent le digital. Prêt à devenir l'un d'entre eux ? 🚀\nDécouvre le parcours intensif du programme Zéro Chômage Afrique pour transformer ton smartphone et ton ordinateur en véritables machines à générer des revenus :",
+          "program": [
+            "✅ Modules 1 à 5 : Les Fondations du Succès. Apprends à choisir ton positionnement, créer des pages professionnelles et définir une audience qui achète vraiment.",
+            " ✅ Modules 6 à 10 : L'Art du Contenu Viral. Maîtrise le copywriting pour vendre avec les mots, le design sur Canva et la vidéo mobile qui cartonne sur TikTok et Instagram. 🎬✨",
+            "✅ Modules 11 à 15 : Croissance & Communauté. Gère des calendriers éditoriaux, booste ton nombre d'abonnés et apprends enfin les secrets de la monétisation.",
+            "✅ Modules 16 à 20 : Vente & Publicité. Deviens un pro de la publicité Facebook/Instagram, du closing sur WhatsApp Business et lance ton activité digitale rentable ! 💰📈"
+          ],
+          "skills": [
+            "Bâtir une stratégie marketing axée sur le retour sur investissement (ROI) des entreprises.",
+            "Créer et piloter des campagnes publicitaires payantes avec un ciblage d'audience chirurgical.",
+            "Utiliser l'IA pour générer des calendriers éditoriaux, rédiger du contenu et automatiser les processus d'envoi.",
+            "Analyser les statistiques web pour ajuster en temps réel les actions marketing."
+          ],
+          "outcomes": [
+            "Responsable Marketing Digital / Growth HackerCommunity Manager / Social Media Manager",
+            "Spécialiste Publicité en ligne (Media Buyer)Consultant en efficacité digitale et IA"
+          ],
+          "keywords": [
+            "Automatisation ",
+            "IA générative",
+            " Tunnel de vente ",
+            "Copywriting ",
+            "ROI",
+            " Publicité payante"
+          ]
+        },
+        "gallery": []
       }
     ],
     "news": [
       {
-        "id": "news-1",
-        "img": "/src/assets/news-1.jpg",
-        "date": "15 Mars 2026",
-        "category": "FORMATION",
-        "title": "Lancement de la nouvelle promotion 2026",
-        "desc": "Plus de 200 jeunes africains rejoignent nos parcours en design, marketing digital, photo et video."
-      },
-      {
         "id": "news-2",
-        "img": "/src/assets/news-2.jpg",
-        "date": "02 Fevrier 2026",
-        "category": "EVENEMENT",
-        "title": "Masterclass Entrepreneuriat Numerique",
-        "desc": "Une journee d'inspiration avec des experts du digital pour booster les ambitions des apprenants."
+        "img": "http://localhost:4000/uploads/1781017748787-whatsapp-image-2026-05-20-at-16.36.08.jpeg",
+        "date": "02 Fevrier 2025",
+        "category": "EVENEMENT 2",
+        "title": "ACTUALITÉ 2 : Le Salon Digimétier 2026",
+        "desc": "Ouverture de l'édition 2026 placée sous le thème « Du Local au Mondial, le métier évolue ». Durant 5 jours, ce salon d'envergure déploie des masterclass, des ateliers techniques, des sessions de mentorat et l'élection inspirante de l'ambassadrice Miss Digimétier pour promouvoir l'excellence numérique au féminin.",
+        "gallery": [
+          "http://localhost:4000/uploads/1781017755318-whatsapp-image-2026-05-20-at-16.36.07.jpeg",
+          "http://localhost:4000/uploads/1781017760629-whatsapp-image-2026-05-20-at-16.33.54-(1).jpeg",
+          "http://localhost:4000/uploads/1781017765778-whatsapp-image-2026-05-20-at-16.33.54.jpeg"
+        ],
+        "body": "Ouverture de l'édition 2026 placée sous le thème « Du Local au Mondial, le métier évolue ». Durant 5 jours, ce salon d'envergure déploie des masterclass, des ateliers techniques, des sessions de mentorat et l'élection inspirante de l'ambassadrice Miss Digimétier pour promouvoir l'excellence numérique au féminin."
       },
       {
         "id": "news-3",
-        "img": "/src/assets/news-3.jpg",
-        "date": "20 Janvier 2026",
-        "category": "CEREMONIE",
-        "title": "Ceremonie de remise des certificats DigiMetier",
-        "desc": "Plus de 150 diplomes ont recu leur certification apres leur parcours intensif chez Future Horizon."
+        "img": "http://localhost:4000/uploads/1781017593809-whatsapp-image-2026-05-23-at-23.19.54.jpeg",
+        "date": "Samedi 23 mai 2026",
+        "category": "SORTIE",
+        "title": "ACTUALITÉ 3 : INCLUSION & BIEN-ÊTRE à la Forêt du BANCO",
+        "desc": "Le samedi 23 mai 2026, l'ensemble de la communauté Future Horizon en Côte d'Ivoire s'est réunie à la forêt du Banco pour une journée d'activités sportives et de randonnée, alliant le culte de l'effort, la discipline collective et le renforcement des liens de réseau.",
+        "gallery": [
+          "http://localhost:4000/uploads/1781017521946-whatsapp-image-2026-05-20-at-16.43.02.jpeg",
+          "http://localhost:4000/uploads/1781017598886-whatsapp-image-2026-05-23-at-23.19.55.jpeg"
+        ],
+        "body": "Le samedi 23 mai 2026, l'ensemble de la communauté Future Horizon en Côte d'Ivoire s'est réunie à la forêt du Banco pour une journée d'activités sportives et de randonnée, alliant le culte de l'effort, la discipline collective et le renforcement des liens de réseau."
+      },
+      {
+        "id": "news-1781017217337-8t6twn",
+        "date": "01 Janvier 2026",
+        "category": "EVENEMENT ",
+        "title": " CÉRÉMONIE de Remise de 890 parchemins à la Mairie de Yaoundé 4e",
+        "desc": "Célébration officielle de la réussite républicaine. Sous le parrainage du Ministère de l'emploi et de la formation professionnelles, des autorités municipales, et en présence de nombreux partenaires nationaux et Internationaux 890 jeunes diplômés ont reçu leurs parchemins de fin de formation, marquant leur insertion officielle dans l'économie numérique et leur déploiement opérationnel sur le marché du travail au Cameroun.",
+        "img": "http://localhost:4000/uploads/1781019869156-whatsapp-image-2026-05-20-at-16.31.46-(1).jpeg",
+        "body": "Célébration officielle de la réussite républicaine. Sous le parrainage du Ministère de l'emploi et de la formation professionnelles, des autorités municipales, et en présence de nombreux partenaires nationaux et Internationaux 890 jeunes diplômés ont reçu leurs parchemins de fin de formation, marquant leur insertion officielle dans l'économie numérique et leur déploiement opérationnel sur le marché du travail au Cameroun.",
+        "gallery": [
+          "http://localhost:4000/uploads/1781017300659-whatsapp-image-2026-05-20-at-16.31.46-(2).jpeg",
+          "http://localhost:4000/uploads/1781017305031-whatsapp-image-2026-05-20-at-16.31.46-(3).jpeg",
+          "http://localhost:4000/uploads/1781017312356-whatsapp-image-2026-05-20-at-16.31.46-(4).jpeg",
+          "http://localhost:4000/uploads/1781017318072-whatsapp-image-2026-05-20-at-16.31.46.jpeg"
+        ]
+      },
+      {
+        "id": "news-1781017408888-9yjjko",
+        "date": "01 Janvier 2027",
+        "category": "NOUVEAUTE",
+        "title": "REVUE DE PRESSE",
+        "desc": "La revue de presse du site regroupe quotidiennement les principaux articles et actualités relatifs au domaine de la santé numérique. Chaque information est résumée et accompagnée de sa source afin d'offrir aux visiteurs une vision synthétique et fiable des événements marquants du secteur. »",
+        "img": "http://localhost:4000/uploads/1781019505130-whatsapp-image-2026-05-20-at-16.44.54-(2).jpeg",
+        "body": "",
+        "gallery": [
+          "http://localhost:4000/uploads/1781019473888-whatsapp-image-2026-05-20-at-16.44.54-(1).jpeg",
+          "http://localhost:4000/uploads/1781019480690-whatsapp-image-2026-05-20-at-16.44.54.jpeg",
+          "http://localhost:4000/uploads/1781019486521-whatsapp-image-2026-05-20-at-16.44.55-(1).jpeg",
+          "http://localhost:4000/uploads/1781019490076-whatsapp-image-2026-05-20-at-16.44.55.jpeg",
+          "http://localhost:4000/uploads/1781019493414-whatsapp-image-2026-05-20-at-16.44.56.jpeg"
+        ]
+      }
+    ],
+    "realisations": [
+      {
+        "id": "formations-cameroun",
+        "image": "http://localhost:4000/uploads/1781025953527-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+        "title": " Déploiement et Insertion Régionale",
+        "desc": " Formations Internationales (Ex-Formations au Cameroun)",
+        "detail": {
+          "intro": "Extension réussie de nos programmes d'ingénierie pédagogique à l'échelle continentale. Nous concevons et opérons des cycles de formations intensives standardisés, certifiant les compétences numériques de la jeunesse africaine pour répondre directement aux besoins de souveraineté technologique des États partenaires.",
+          "context": "Ces sessions couvrent la photographie, la videographie, le design graphique et le marketing digital, avec un accompagnement terrain et des projets concrets.",
+          "highlights": [
+            "Sessions pratiques encadrees par des formateurs professionnels.",
+            "Ateliers en petits groupes pour un suivi personnalise.",
+            "Mise a disposition d'equipements et de logiciels professionnels."
+          ],
+          "impact": "Des centaines de jeunes ont acquis des competences directement exploitables sur le marche du travail et l'entrepreneuriat digital."
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781025656883-whatsapp-image-2026-05-20-at-16.16.05.jpeg",
+          "http://localhost:4000/uploads/1781025661575-whatsapp-image-2026-05-20-at-16.16.06.jpeg",
+          "http://localhost:4000/uploads/1781025666078-whatsapp-image-2026-05-20-at-16.16.07.jpeg"
+        ]
+      },
+      {
+        "id": "masterclass-conferences",
+        "image": "http://localhost:4000/uploads/1781025931507-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+        "title": " Dialogues Stratégiques & Transfert de Compétences",
+        "desc": "Conférences & Masterclass",
+        "detail": {
+          "intro": "Organisation de sommets et de rencontres de haut niveau réunissant décideurs publics, leaders d'industries et experts du numérique. Ces espaces d'échanges favorisent le mentorat direct, cassent les barrières de l'information et tracent les feuilles de route de l'innovation technologique en Afrique.\n",
+          "context": "Ces evenements permettent d'elargir les horizons, de partager des retours d'experience et de creer des opportunites de networking.",
+          "highlights": [
+            "Interventions de professionnels reconnus du secteur.",
+            "Etudes de cas et sessions de questions-reponses.",
+            "Echanges entre apprenants, mentors et partenaires."
+          ],
+          "impact": "Les participants repartent avec des idees actionnables et un reseau elargi pour accelerer leur insertion professionnelle."
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781025718090-whatsapp-image-2026-05-20-at-16.20.58-(2).jpeg",
+          "http://localhost:4000/uploads/1781025723004-whatsapp-image-2026-05-20-at-16.20.58-(1).jpeg",
+          "http://localhost:4000/uploads/1781025727040-whatsapp-image-2026-05-20-at-16.20.58.jpeg"
+        ]
+      },
+      {
+        "id": "eveil-entrepreneurial",
+        "image": "http://localhost:4000/uploads/1781025903542-whatsapp-image-2026-05-20-at-16.24.16-(2).jpeg",
+        "title": "Inclusion par le Sport & Incubateur de Talents",
+        "desc": " Éveil Entrepreneurial & Impact (Incluant le Sport)\n",
+        "detail": {
+          "intro": "Financement et accompagnement de projets à fort impact portés par la jeunesse. À travers des programmes mêlant les valeurs d'excellence du sport, le leadership et l'incubation technique, nous transformons les idées brutes en entreprises viables, créatrices d'emplois et de valeur locale.",
+          "context": "A travers des ateliers, du mentorat et un accompagnement personnalise, nous structurons les ambitions entrepreneuriales des participants.",
+          "highlights": [
+            "Accompagnement a la creation d'offre et de strategie commerciale.",
+            "Sessions de pitch et feedback de mentors experimentes.",
+            "Suivi post-formation pour le lancement des activites."
+          ],
+          "impact": "De nombreux porteurs de projet ont lance ou structure leur activite grace a un cadre d'accompagnement concret et exigeant."
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781025794971-whatsapp-image-2026-05-20-at-16.24.16-(1).jpeg",
+          "http://localhost:4000/uploads/1781025800413-whatsapp-image-2026-05-20-at-16.24.16.jpeg",
+          "http://localhost:4000/uploads/1781025805916-whatsapp-image-2026-05-20-at-16.24.17.jpeg"
+        ]
+      },
+      {
+        "id": "digimetier-2025",
+        "image": "http://localhost:4000/uploads/1781025865082-whatsapp-image-2026-05-20-at-16.27.08-(1).jpeg",
+        "title": "Autonomisation Économique & Amorçage de Projets",
+        "desc": "Section : Incubation & Financement d'Entreprises",
+        "detail": {
+          "intro": "Dispositif d'accompagnement technique et de facilitation d'accès aux capitaux pour les start-ups de l'économie numérique. Nous structurons les modèles économiques des jeunes entrepreneurs africains et mettons en place des mécanismes de financement direct pour accélérer la création d'entreprises formelles, viables et créatrices de valeur fiscale.",
+          "context": "Cette ceremonie met en lumiere les competences acquises, les projets realises et les debouches professionnels des apprenants.",
+          "highlights": [
+            "Remise officielle des certificats aux laureats.",
+            "Presentation des meilleurs projets et portfolios.",
+            "Moment de reconnaissance et de motivation pour les nouvelles promotions."
+          ],
+          "impact": "L'evenement renforce la visibilite des talents formes et ouvre des portes vers l'emploi, le freelance et l'entrepreneuriat."
+        },
+        "gallery": [
+          "http://localhost:4000/uploads/1781025871870-whatsapp-image-2026-05-20-at-16.27.07-(1).jpeg",
+          "http://localhost:4000/uploads/1781025876782-whatsapp-image-2026-05-20-at-16.27.07.jpeg",
+          "http://localhost:4000/uploads/1781025881021-whatsapp-image-2026-05-20-at-16.27.08.jpeg"
+        ]
+      }
+    ],
+    "siteGallery": [
+      {
+        "id": "gallery-1",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/gallery-1.jpg",
+        "alt": "Ceremonie de remise des diplomes Future Horizon"
+      },
+      {
+        "id": "gallery-2",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/gallery-2.jpg",
+        "alt": "Accueil d'une autorite officielle a Future Horizon"
+      },
+      {
+        "id": "gallery-3",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/gallery-3.jpg",
+        "alt": "Invites d'honneur lors d'un evenement Future Horizon"
+      },
+      {
+        "id": "gallery-4",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/gallery-4.jpg",
+        "alt": "Moment convivial avec un membre de la communaute"
+      },
+      {
+        "id": "gallery-5",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/gallery-5.jpg",
+        "alt": "Photo de groupe de la communaute Future Horizon"
+      },
+      {
+        "id": "gallery-6",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/photo-2.jpg",
+        "alt": "Atelier pratique de photographie en studio"
+      },
+      {
+        "id": "gallery-7",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/photo-3.jpg",
+        "alt": "Etudiant en photographie capturant une scene"
+      },
+      {
+        "id": "gallery-8",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/photo-4.jpg",
+        "alt": "Apprenti photographe en plein shooting"
+      },
+      {
+        "id": "gallery-9",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/video-2.jpg",
+        "alt": "Regie de production video multi-cameras"
+      },
+      {
+        "id": "gallery-10",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/video-3.jpg",
+        "alt": "Tournage en equipe avec cameras professionnelles"
+      },
+      {
+        "id": "gallery-11",
+        "src": "/@fs/C:/Users/server/Desktop/zero-chomage-afrique-main/src/assets/design-2.jpg",
+        "alt": "Etudiants travaillant sur le manuel de cours en design graphique"
+      },
+      {
+        "id": "gallery-1781020093115-c5378u",
+        "src": "http://localhost:4000/uploads/1781020093107-whatsapp-image-2026-05-20-at-16.49.58-(1).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (1)"
+      },
+      {
+        "id": "gallery-1781020097944-slkhlv",
+        "src": "http://localhost:4000/uploads/1781020097931-whatsapp-image-2026-05-20-at-16.49.58.jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58"
+      },
+      {
+        "id": "gallery-1781020232899-e4hzod",
+        "src": "http://localhost:4000/uploads/1781020232891-whatsapp-image-2026-05-20-at-16.49.58-(2).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (2)"
+      },
+      {
+        "id": "gallery-1781020239490-los641",
+        "src": "http://localhost:4000/uploads/1781020239484-whatsapp-image-2026-05-20-at-16.49.58-(3).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (3)"
+      },
+      {
+        "id": "gallery-1781020244433-6hw6p0",
+        "src": "http://localhost:4000/uploads/1781020244426-whatsapp-image-2026-05-20-at-16.49.58-(4).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (4)"
+      },
+      {
+        "id": "gallery-1781020249195-xta1wq",
+        "src": "http://localhost:4000/uploads/1781020249187-whatsapp-image-2026-05-20-at-16.49.58-(8).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (8)"
+      },
+      {
+        "id": "gallery-1781020252672-9bg417",
+        "src": "http://localhost:4000/uploads/1781020252664-whatsapp-image-2026-05-20-at-16.49.58-(9).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (9)"
+      },
+      {
+        "id": "gallery-1781020257310-noqip6",
+        "src": "http://localhost:4000/uploads/1781020257303-whatsapp-image-2026-05-20-at-16.49.58-(10).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (10)"
+      },
+      {
+        "id": "gallery-1781020261507-tf97l3",
+        "src": "http://localhost:4000/uploads/1781020261499-whatsapp-image-2026-05-20-at-16.49.58-(11).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (11)"
+      },
+      {
+        "id": "gallery-1781020266292-a8l373",
+        "src": "http://localhost:4000/uploads/1781020266284-whatsapp-image-2026-05-20-at-16.49.58-(11).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (11)"
+      },
+      {
+        "id": "gallery-1781020270287-jwm3oa",
+        "src": "http://localhost:4000/uploads/1781020270279-whatsapp-image-2026-05-20-at-16.49.58-(12).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (12)"
+      },
+      {
+        "id": "gallery-1781020277964-ldi450",
+        "src": "http://localhost:4000/uploads/1781020277957-whatsapp-image-2026-05-20-at-16.49.58-(13).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (13)"
+      },
+      {
+        "id": "gallery-1781020289205-bvaixe",
+        "src": "http://localhost:4000/uploads/1781020289199-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (14)"
+      },
+      {
+        "id": "gallery-1781020301221-eea5hy",
+        "src": "http://localhost:4000/uploads/1781020301213-whatsapp-image-2026-05-20-at-16.49.58-(15).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (15)"
       }
     ]
   }

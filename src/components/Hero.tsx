@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { ArrowRight, Calendar, GraduationCap, Briefcase, TrendingUp, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Counter } from "@/components/Counter";
@@ -9,28 +8,6 @@ import { DEFAULT_SITE_CONTENT, useSiteContent } from "@/context/SiteContentConte
 export const Hero = () => {
   const { content } = useSiteContent();
   const hero = content.hero?.titleTop ? content.hero : DEFAULT_SITE_CONTENT.hero;
-  const [trainedCount, setTrainedCount] = useState(5000);
-
-  useEffect(() => {
-    const totalKey = "zca-users-trained-total";
-    const sessionKey = "zca-users-trained-session-counted";
-    const base = 5000;
-
-    const storedRaw = window.localStorage.getItem(totalKey);
-    let total = storedRaw ? Number.parseInt(storedRaw, 10) : base;
-    if (Number.isNaN(total) || total < base) {
-      total = base;
-    }
-
-    const alreadyCounted = window.sessionStorage.getItem(sessionKey) === "1";
-    if (!alreadyCounted) {
-      total += 1000;
-      window.localStorage.setItem(totalKey, String(total));
-      window.sessionStorage.setItem(sessionKey, "1");
-    }
-
-    setTrainedCount(total);
-  }, []);
 
   return (
     <section id="accueil" className="relative pt-20">
@@ -47,11 +24,8 @@ export const Hero = () => {
 
         <div className="container-zca relative z-10 py-20 lg:py-28">
           <div className="max-w-2xl animate-fade-up">
-            <h1 className="font-display font-black text-white text-5xl sm:text-6xl lg:text-7xl leading-[1.05] tracking-tight">
-              {hero.titleTop}
-              <br />
-              {hero.titleMiddle}
-              <br />
+            <h1 className="font-display font-black text-white text-3xl sm:text-4xl lg:text-5xl xl:text-6xl leading-[1.1] tracking-tight max-w-4xl">
+              {hero.titleTop} {hero.titleMiddle}{" "}
               <span className="text-accent">{hero.titleHighlight}</span>
             </h1>
             <p className="mt-6 text-lg text-white/85 max-w-lg leading-relaxed">
@@ -77,10 +51,24 @@ export const Hero = () => {
       <div className="bg-primary text-white">
         <div className="container-zca grid grid-cols-2 lg:grid-cols-4 gap-6 py-8">
           {[
-            { icon: GraduationCap, end: trainedCount, prefix: "+", label: "Jeunes formés" },
-            { icon: Briefcase, end: 300, prefix: "+", label: "Missions réalisées" },
-            { icon: TrendingUp, label: "De revenus générés", text: "+150 Millions FCFA" },
-            { icon: MapPin, label: "Présence", text: "CAMEROUN\nCOTE D'IVOIRE", stacked: true },
+            {
+              icon: GraduationCap,
+              end: 12835,
+              prefix: "+ ",
+              label: "Jeunes, Femmes et Handicapés formés",
+            },
+            {
+              icon: Briefcase,
+              end: 685,
+              prefix: "+ ",
+              label: "missions terrains réalisées dans les entreprises",
+            },
+            {
+              icon: TrendingUp,
+              label: "d'accompagnement au financement d'entreprise",
+              text: "+ de 85 865 000 Fcfa",
+            },
+            { icon: MapPin, label: "Présence", text: "Cameroun\nCôte d'ivoire", stacked: true },
           ].map((s, i) => (
             <div key={i} className="flex items-center gap-4">
               <s.icon className="h-9 w-9 text-accent shrink-0" strokeWidth={1.75} />
@@ -94,7 +82,7 @@ export const Hero = () => {
                   ) : s.text ? (
                     s.text
                   ) : (
-                    <Counter end={s.end!} prefix={s.prefix} suffix={s.suffix} />
+                    <Counter end={s.end!} prefix={s.prefix} />
                   )}
                 </div>
                 <div className="text-sm text-white/70">{s.label}</div>

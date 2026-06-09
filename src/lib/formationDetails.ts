@@ -1,4 +1,4 @@
-type FormationDetail = {
+export type FormationDetailContent = {
   intro: string;
   target: string;
   program: string[];
@@ -7,12 +7,32 @@ type FormationDetail = {
   keywords: string[];
 };
 
-const DETAILS_BY_ID: Record<string, FormationDetail> = {
+const DEFAULT_DETAIL: FormationDetailContent = {
+  intro:
+    "Cette formation est concue pour vous donner des competences pratiques, applicables rapidement sur des projets reels et recherchees sur le marche du travail.",
+  target:
+    "Elle s'adresse aux jeunes, porteurs de projet et professionnels en reconversion qui veulent monter en competence.",
+  program: [
+    "Module 1: fondamentaux et outils indispensables.",
+    "Module 2: pratique guidee avec exercices progressifs.",
+    "Module 3: projet concret pour valider les acquis.",
+    "Module 4: accompagnement vers l'employabilite.",
+  ],
+  skills: [
+    "Appliquer une methode professionnelle sur des cas reels.",
+    "Produire des livrables de qualite adaptes au marche.",
+    "Valoriser ses competences dans un portfolio solide.",
+  ],
+  outcomes: ["Freelance", "Collaborateur en entreprise", "Prestataire de services digitaux"],
+  keywords: ["formation professionnelle", "competences digitales", "employabilite", "metiers du digital"],
+};
+
+const DETAILS_BY_ID: Record<string, FormationDetailContent> = {
   photo: {
     intro:
-      "Cette formation vous apprend a raconter des histoires fortes avec l'image. Vous passez de debutant a createur capable de produire des photos professionnelles pour des marques, des evenements et des clients prives.",
+      "Devenez un pro de l'image. Maitrisez la prise de vue, la lumiere et la retouche photo professionnelle pour capturer des visuels qui marquent les esprits.",
     target:
-      "Ideale pour les jeunes creatifs, les freelances debutants et toute personne qui veut monnayer son talent en photographie.",
+      "Transformez votre passion en un metier rentable. Cette formation intensive vous plonge directement au coeur du terrain. Vous apprendrez a prendre des photos qui parlent, a travailler avec des marques et a monnayer votre talent.",
     program: [
       "Bases techniques: cadrage, exposition, lumiere naturelle et artificielle.",
       "Direction artistique: storytelling visuel, composition et univers de marque.",
@@ -90,26 +110,33 @@ const DETAILS_BY_ID: Record<string, FormationDetail> = {
   },
 };
 
-export function getFormationDetailById(id: string): FormationDetail {
-  return (
-    DETAILS_BY_ID[id] ?? {
-      intro:
-        "Cette formation est concue pour vous donner des competences pratiques, applicables rapidement sur des projets reels et recherchees sur le marche du travail.",
-      target:
-        "Elle s'adresse aux jeunes, porteurs de projet et professionnels en reconversion qui veulent monter en competence.",
-      program: [
-        "Module 1: fondamentaux et outils indispensables.",
-        "Module 2: pratique guidee avec exercices progressifs.",
-        "Module 3: projet concret pour valider les acquis.",
-        "Module 4: accompagnement vers l'employabilite.",
-      ],
-      skills: [
-        "Appliquer une methode professionnelle sur des cas reels.",
-        "Produire des livrables de qualite adaptes au marche.",
-        "Valoriser ses competences dans un portfolio solide.",
-      ],
-      outcomes: ["Freelance", "Collaborateur en entreprise", "Prestataire de services digitaux"],
-      keywords: ["formation professionnelle", "competences digitales", "employabilite", "metiers du digital"],
-    }
-  );
+export function getFormationDetailById(id: string): FormationDetailContent {
+  return DETAILS_BY_ID[id] ?? DEFAULT_DETAIL;
+}
+
+export function resolveFormationDetail(formation: {
+  id: string;
+  detail?: FormationDetailContent;
+}): FormationDetailContent {
+  const defaults = getFormationDetailById(formation.id);
+  if (!formation.detail) return defaults;
+  return {
+    intro: formation.detail.intro || defaults.intro,
+    target: formation.detail.target || defaults.target,
+    program: formation.detail.program?.length ? formation.detail.program : defaults.program,
+    skills: formation.detail.skills?.length ? formation.detail.skills : defaults.skills,
+    outcomes: formation.detail.outcomes?.length ? formation.detail.outcomes : defaults.outcomes,
+    keywords: formation.detail.keywords?.length ? formation.detail.keywords : defaults.keywords,
+  };
+}
+
+export function emptyFormationDetail(): FormationDetailContent {
+  return {
+    intro: "",
+    target: "",
+    program: [""],
+    skills: [""],
+    outcomes: [""],
+    keywords: [""],
+  };
 }

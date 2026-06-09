@@ -1,4 +1,5 @@
 import { Calendar, ArrowRight } from "lucide-react";
+import { Link } from "react-router-dom";
 import { DEFAULT_SITE_CONTENT, useSiteContent } from "@/context/SiteContentContext";
 
 export const News = () => {
@@ -43,12 +44,12 @@ export const News = () => {
                   {it.title}
                 </h3>
                 <p className="mt-2 text-sm text-muted-foreground leading-relaxed">{it.desc}</p>
-                <a
-                  href="#"
+                <Link
+                  to={`/actualites/${it.id}`}
                   className="mt-4 inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wide text-accent hover:gap-2 transition-base"
                 >
                   Lire la suite <ArrowRight className="h-3.5 w-3.5" />
-                </a>
+                </Link>
               </div>
             </article>
           ))}

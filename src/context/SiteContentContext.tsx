@@ -6,6 +6,11 @@ import marketing from "@/assets/formation-marketing.jpg";
 import news1 from "@/assets/news-1.jpg";
 import news2 from "@/assets/news-2.jpg";
 import news3 from "@/assets/news-3.jpg";
+import { getFormationDetailById, type FormationDetailContent } from "@/lib/formationDetails";
+import { DEFAULT_SITE_GALLERY, type SiteGalleryImage } from "@/lib/siteGallery";
+import { DEFAULT_REALISATIONS, type RealisationItem } from "@/lib/realisationDetails";
+
+export type { FormationDetailContent, SiteGalleryImage, RealisationItem };
 
 export type FormationIcon = "camera" | "video" | "palette" | "bar-chart";
 export type FormationColor = "bg-primary" | "bg-accent";
@@ -17,6 +22,8 @@ export type FormationItem = {
   image: string;
   icon: FormationIcon;
   color: FormationColor;
+  detail?: FormationDetailContent;
+  gallery?: string[];
 };
 
 export type NewsItem = {
@@ -26,6 +33,8 @@ export type NewsItem = {
   title: string;
   desc: string;
   img: string;
+  body?: string;
+  gallery?: string[];
 };
 
 export type HeroContent = {
@@ -39,6 +48,8 @@ export type SiteContent = {
   hero: HeroContent;
   formations: FormationItem[];
   news: NewsItem[];
+  realisations: RealisationItem[];
+  siteGallery: SiteGalleryImage[];
 };
 
 type SiteContentContextValue = {
@@ -65,6 +76,8 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       title: "PHOTOGRAPHIE",
       desc: "Maitrisez la prise de vue, la lumiere et la retouche photo professionnelle.",
       color: "bg-primary",
+      detail: getFormationDetailById("photo"),
+      gallery: [],
     },
     {
       id: "video",
@@ -73,6 +86,8 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       title: "VIDEOGRAPHIE & CREATION DE CONTENU",
       desc: "Apprenez a filmer, monter et creer des contenus percutants.",
       color: "bg-accent",
+      detail: getFormationDetailById("video"),
+      gallery: [],
     },
     {
       id: "design",
@@ -81,6 +96,8 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       title: "DESIGN GRAPHIQUE",
       desc: "Creez des visuels professionnels et des identites impactantes.",
       color: "bg-primary",
+      detail: getFormationDetailById("design"),
+      gallery: [],
     },
     {
       id: "marketing",
@@ -89,6 +106,8 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       title: "MARKETING DIGITAL",
       desc: "Developpez des strategies digitales et generez des resultats.",
       color: "bg-accent",
+      detail: getFormationDetailById("marketing"),
+      gallery: [],
     },
   ],
   news: [
@@ -99,6 +118,7 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       category: "FORMATION",
       title: "Lancement de la nouvelle promotion 2026",
       desc: "Plus de 200 jeunes africains rejoignent nos parcours en design, marketing digital, photo et video.",
+      gallery: [],
     },
     {
       id: "news-2",
@@ -107,6 +127,7 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       category: "EVENEMENT",
       title: "Masterclass Entrepreneuriat Numerique",
       desc: "Une journee d'inspiration avec des experts du digital pour booster les ambitions des apprenants.",
+      gallery: [],
     },
     {
       id: "news-3",
@@ -115,8 +136,11 @@ export const DEFAULT_SITE_CONTENT: SiteContent = {
       category: "CEREMONIE",
       title: "Ceremonie de remise des certificats DigiMetier",
       desc: "Plus de 150 diplomes ont recu leur certification apres leur parcours intensif chez Future Horizon.",
+      gallery: [],
     },
   ],
+  realisations: DEFAULT_REALISATIONS,
+  siteGallery: DEFAULT_SITE_GALLERY,
 };
 
 const SiteContentContext = createContext<SiteContentContextValue | null>(null);
@@ -136,7 +160,17 @@ function getInitialContent(): SiteContent {
     if (!parsed || !parsed.hero || !Array.isArray(parsed.formations) || !Array.isArray(parsed.news)) {
       return DEFAULT_SITE_CONTENT;
     }
-    return parsed;
+    return {
+      ...parsed,
+      realisations:
+        Array.isArray(parsed.realisations) && parsed.realisations.length > 0
+          ? parsed.realisations
+          : DEFAULT_SITE_CONTENT.realisations,
+      siteGallery:
+        Array.isArray(parsed.siteGallery) && parsed.siteGallery.length > 0
+          ? parsed.siteGallery
+          : DEFAULT_SITE_CONTENT.siteGallery,
+    };
   } catch {
     return DEFAULT_SITE_CONTENT;
   }
