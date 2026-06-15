@@ -619,6 +619,16 @@
       "size": 1178188,
       "uploadedBy": 1,
       "createdAt": "2026-06-09T17:25:53.542Z"
+    },
+    {
+      "id": 66,
+      "label": "WhatsApp Image 2026-05-20 at 16.49.58 (14).jpeg",
+      "fileName": "1781536626851-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+      "url": "/uploads/1781536626851-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+      "mimeType": "image/jpeg",
+      "size": 388175,
+      "uploadedBy": 1,
+      "createdAt": "2026-06-15T15:17:06.856Z"
     }
   ],
   "siteContent": {
@@ -1065,6 +1075,11 @@
         "id": "gallery-1781020301221-eea5hy",
         "src": "http://localhost:4000/uploads/1781020301213-whatsapp-image-2026-05-20-at-16.49.58-(15).jpeg",
         "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (15)"
+      },
+      {
+        "id": "gallery-1781536626866-wcp2y5",
+        "src": "http://localhost:4000/uploads/1781536626851-whatsapp-image-2026-05-20-at-16.49.58-(14).jpeg",
+        "alt": "WhatsApp Image 2026-05-20 at 16.49.58 (14)"
       }
     ]
   }
